@@ -1,5 +1,5 @@
 # auto for anything unspecified
-* text=auto
+* text=false
 
 # sources
 *.c text
